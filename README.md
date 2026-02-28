@@ -1,1 +1,1 @@
-# Backend-API-in-Golang-JWT-MySQL-Tests-
+# Backend-API-in-Golang-JWT-MySQL-Tests
